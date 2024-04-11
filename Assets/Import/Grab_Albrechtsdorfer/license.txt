@@ -1,0 +1,8 @@
+Model Information:
+* title:	Grab Albrechtsdorfer
+* source:	https://sketchfab.com/3d-models/grab-albrechtsdorfer-35da9b9d876d4db584ee9b1c472ab5a8
+* author:	noe-3d.at (https://sketchfab.com/www.noe-3d.at)
+
+Model License:
+* license type:	CC0-1.0 (http://creativecommons.org/publicdomain/zero/1.0/)
+* requirements:	Credit is not mandatory. Commercial use is allowed.
